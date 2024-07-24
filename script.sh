@@ -14,9 +14,5 @@ sudo rm -rf /var/www/html
 echo "Clone Login App"
 sudo git clone https://github.com/sandeepreddy9909s/login-page-2426.git /var/www/html
 
-
-
-
-
-
+echo"completed"
 
